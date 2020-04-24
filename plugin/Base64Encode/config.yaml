@@ -4,7 +4,7 @@ version: 1.0
 description: <__trans phrase="_PLUGIN_DESCRIPTION">
 author_name: <__trans phrase="_PLUGIN_AUTHOR">
 author_link: https://burnworks.com/
-doc_link: https://burnworks.com/
+doc_link: https://github.com/burnworks/mt_base64_encode_plugin
 l10n_class: Base64Encode::L10N
 
 tags:
