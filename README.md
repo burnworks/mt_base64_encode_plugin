@@ -21,3 +21,7 @@ URL セーフな base64 エンコードが必要な場合は、`replace` グロ�
 ```
 <$mt:TagName base64_encode="1" replace="/","_" replace="+","-" replace="=",""$>
 ```
+
+## その他
+
+Movable Type 7 r.4605 で動作確認をしていますが、恐らく現在サポート継続中の他のバージョンでも動作すると思います。
