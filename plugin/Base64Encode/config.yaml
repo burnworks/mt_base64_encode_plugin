@@ -1,0 +1,12 @@
+id: Base64Encode
+name: <__trans phrase="base64_encode Global Modifier">
+version: 1.0
+description: <__trans phrase="_PLUGIN_DESCRIPTION">
+author_name: <__trans phrase="_PLUGIN_AUTHOR">
+author_link: https://burnworks.com/
+doc_link: https://burnworks.com/
+l10n_class: Base64Encode::L10N
+
+tags:
+    modifier:
+        base64_encode: $Base64Encode::Base64Encode::Tags::_hdlr_base64encode
